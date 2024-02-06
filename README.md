@@ -1,6 +1,6 @@
 # py_dataVisualization
 <h1>데이터 시각화(엑셀)</h1>
-<h3>노션 링크 https://assorted-bedbug-045.notion.site/81806461f00142539ca96c8a6d39cc9d?pvs=4</h3>
+<h3>노션 링크 https://assorted-bedbug-045.notion.site/81806461f00142539ca96c8a6d39cc9d?pvs=4 </h3>
 <h3>서울의 기온이 가장 높았던 날의 날짜와 기온 구하기</h3>
 : 기상 관측 이래 서울의 최고 기온이 가장 높았던 날은 2013-08-27 로, 39.6 도 였습니다.
 
