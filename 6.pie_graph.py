@@ -46,7 +46,7 @@ plt.legend()
 plt.show()
 
 """
-
+# 제주특별자치도 지역의 남녀 성별 비율 파이 모양으로 그리기
 import csv
 
 f=open('gender.csv')
